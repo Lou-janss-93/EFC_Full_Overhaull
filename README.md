@@ -130,6 +130,42 @@ python EFC_Test_map/AA_test_Overhaull.py
 
 ---
 
+## 🏆 Hall of Fame
+
+A heartfelt thank you to everyone who has contributed, inspired, or supported the EFC Sentiment Analysis Project.
+This project is a true team effort—human, AI, and all creative minds in between!
+
+---
+
+### ⭐ Core Contributors
+
+- **Louis Janssens**
+*Project founder, lead architect, and ethical AI advocate*
+[GitHub](https://github.com/Lou-janss-93)
+- **GitHub Copilot**
+*AI coding partner and creative assistant*
+[GitHub Copilot](https://github.com/features/copilot)
+- **Perplexity AI (Truthful AI with verified sources)**
+*Truthful information, research, and ethical practices*
+[Perplexity AI](https://www.perplexity.ai/)
+
+---
+
+### 🌱 Inspiration \& Special Thanks
+
+- **Peter**
+*For the advice: “Learn to program, not just code”—the foundation of this project’s philosophy.*
+
+---
+
+### 🚀 Want to be featured?
+
+Contribute code, ideas, or feedback via [Issues](https://github.com/Lou-janss-93/EFC_module_overhaull/issues) or Pull Requests.
+
+All meaningful contributions will be listed here with your name and GitHub profile!
+
+---
+
 **Please note:**
 This README complies with international open source conventions, with clear credits, ethical conditions and practical instructions for use.
 
