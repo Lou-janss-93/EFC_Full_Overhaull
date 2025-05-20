@@ -2,26 +2,27 @@
 
 *Louis Janssens & GitHub Copilot – 19/05/2025*
 
-## Voorbereiding voor het uitvoeren van tests
+## Preparation for Running Tests
 
-1. **Zorg dat er maar één testbestand tegelijk in `EFC_Test_map` staat.**
-   - Verwijder of verplaats andere testbestanden uit deze map voordat je een nieuwe test draait.
+1. **Make sure that only one test file is in 'EFC_Test_map' at a time.**
+   - Delete or move other test files from this folder before running a new test.
 
-2. **Controleer of alle benodigde modules in dezelfde map staan als het testbestand, of correct geïmporteerd kunnen worden.**
+2. **Check that all necessary modules are in the same folder as the test file, or can be imported correctly.**
 
-3. **Voer de test uit met:**
-   ```bash
+3. **Run the test with:**
+   '''bash
    python EFC_Test_map\<jouw_testbestand>.py
    ```
 
-4. **Na afloop kun je het testbestand weer verwijderen of vervangen door een ander testbestand uit `Z_testing_files`.**
+4. **When finished, you can delete the test file or replace it with another test file from 'Z_testing_files'.**
 
 ---
 
 **Tip:**  
 
-- Documenteer je testoutput voor een duidelijk overzicht van de werking.
-- Bewaar deze checklist bij je testbestanden voor toekomstig gebruik.
+- Document your test output for a clear overview of how it works.
+- Keep this checklist with your test files for future reference.
 
 ---
-*Gemaakt door Louis Janssens & GitHub Copilot – 19/05/2025*
+*Made by Louis Janssens & GitHub Copilot – 19/05/2025*
+
