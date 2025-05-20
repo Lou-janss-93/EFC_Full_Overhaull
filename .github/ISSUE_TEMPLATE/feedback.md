@@ -3,7 +3,7 @@ name: Feedback
 about: Share your feedback, ideas, or general thoughts about the EFC Sentiment Analysis
   Project
 title: FEEDBACK
-labels: ''
+labels: feedback
 assignees: ''
 
 ---
