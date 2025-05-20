@@ -2,7 +2,7 @@
 name: Question / Discussion
 about: Ask a question or start a discussion about the EFC Sentiment Analysis Project
 title: ''
-labels: question
+labels: good first issue, question
 assignees: ''
 
 ---
