@@ -121,7 +121,7 @@ python EFC_Test_map/AA_test_Overhaull.py
 
 - **LICENSE:** MIT for code
 - **ETHICAL_USE_ADDENDUM:** Additional ethical conditions
-- **Contact:** louis.janssens@email.com for commercial collaborations or questions
+- **Contact:** janssens_lou88@hotmail.com for commercial collaborations or questions
 
 ---
 
