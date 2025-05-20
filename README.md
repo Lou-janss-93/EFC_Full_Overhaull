@@ -10,7 +10,7 @@ This project is a modular, extensible EFC (Emotion-Focused Computing) architectu
 
 EFC_module_overhaull
 ├── A_sentiment_analysis.py # Emotion detection (text/audio/image)
-├── B_1core_module.py # Central control (CoreModule)
+├── B_core_module.py # Central control (CoreModule)
 ├── C_context_balans_module.py # ContextBalanceModule (Yin/Yang)
 ├── D_context_situation_controle.py # ContextSituationControlModule
 ├── E_primaire_secondarie_basicneeds.py # PrimarySecondaryBasicNeedsModule
