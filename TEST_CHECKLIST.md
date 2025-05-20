@@ -10,11 +10,12 @@
 2. **Check that all necessary modules are in the same folder as the test file, or can be imported correctly.**
 
 3. **Run the test with:**
+   
    '''bash
-   python EFC_Test_map\<jouw_testbestand>.py
+   python EFC_Test_map\<AA_test_Overhaull>.py
+   
    ```
-
-4. **When finished, you can delete the test file or replace it with another test file from 'Z_testing_files'.**
+5. **When finished, you can delete the test file or replace it with another test file from 'Z_testing_files'.**
 
 ---
 
