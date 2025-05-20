@@ -1,0 +1,13 @@
+# Louis Janssens & GitHub Copilot - 19/05/2025
+
+# Basis Python requirements voor EFC Test Map
+unittest
+
+# Voor toekomstige uitbreiding (bijvoorbeeld audio/beeld-analyse):
+# numpy
+# opencv-python
+# librosa
+
+# Let op: 
+# Gebruik de testbestanden uit Z_testing_files door ze vanuit EFC_Test_map\Test_files\ naar de EFC_Test_map te slepen.
+# Zorg dat er nooit meer dan één testbestand tegelijk in EFC_Test_map staat om conflicten te voorkomen.
