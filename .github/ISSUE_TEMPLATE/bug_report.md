@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve the EFC Sentiment Analysis Project
 title: ''
-labels: feedback
+labels: feedback, good first issue, question
 assignees: ''
 
 ---

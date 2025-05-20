@@ -1,9 +1,9 @@
 ---
-name: Question / Discussion
+name: Question
 about: Ask a question or start a discussion about the EFC Sentiment Analysis Project
 title: ''
 labels: good first issue, question
-assignees: ''
+assignees: Lou-janss-93
 
 ---
 
